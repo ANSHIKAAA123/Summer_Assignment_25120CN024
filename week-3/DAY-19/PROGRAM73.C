@@ -31,7 +31,6 @@ int main()
         }
     }
 
-    // Adding two matrices
 
     for(i = 0; i < rows; i++)
     {
